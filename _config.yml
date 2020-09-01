@@ -1,0 +1,52 @@
+url: https://hadroon.com
+baseurl: /
+
+# Site settings
+title: Hadroon LLC
+email: contact@hadroon.com
+description: "Consultoria de Tecnologia e Inovação"
+
+
+# Team names, titles and social links
+people:
+- name: Felipe Augusto Barbosa
+  pic: 1
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: stack-overflow
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/fafbarbosa/
+
+- name: Daniel Yonezawa
+  pic: 2
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: stack-overflow
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/daniel-yonezawa/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/hadroon
+  - title: facebook
+    url:
+  - title: linkedin 
+    url: https://www.linkedin.com/in/hadroon-llc/
+  - title: github
+    url: http://github.com/hadroon-corp
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: São Paulo, Brazil
+
+# Build settings
+markdown: kramdown
+permalink: pretty
