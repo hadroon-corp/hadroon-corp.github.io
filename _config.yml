@@ -2,7 +2,7 @@ url: https://hadroon.com
 baseurl: /
 
 # Site settings
-title: Hadroon LLC
+title: Hadroon
 email: contact@hadroon.com
 description: "Consultoria de Tecnologia e Inovação"
 
@@ -39,9 +39,9 @@ social:
   - title: facebook
     url:
   - title: linkedin 
-    url: https://www.linkedin.com/in/hadroon-llc/
+    url: https://www.linkedin.com/in/hadroon/
   - title: github
-    url: http://github.com/hadroon-corp
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
